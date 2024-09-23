@@ -16,3 +16,7 @@ Experiment with the different properties that affect text display, and various t
 Be creative and come up with the formatting (text, background, spacing) to make this jump out and catch a viewer's attention.
 
 To receive full credit, you may NOT submit the sample CSS file for this assignment. It is provided as an example. You should create your own CSS file and add a few styles that you understand to it.
+![image](https://github.com/user-attachments/assets/60462373-73a7-443d-bf0b-eaf95671e867)
+
+![image](https://github.com/user-attachments/assets/aa96ae95-bc13-47c6-8df5-676498b3a8a0)
+![image](https://github.com/user-attachments/assets/8e046a77-1961-4ccc-af56-8f0989a141ce)

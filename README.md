@@ -20,3 +20,7 @@ To receive full credit, you may NOT submit the sample CSS file for this assignme
 
 ![image](https://github.com/user-attachments/assets/aa96ae95-bc13-47c6-8df5-676498b3a8a0)
 ![image](https://github.com/user-attachments/assets/8e046a77-1961-4ccc-af56-8f0989a141ce)
+
+Website working with CSS file as intended
+![image](https://github.com/user-attachments/assets/a20f15b6-f3f6-4581-95ed-c1ed2c0248f8)
+
